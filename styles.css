@@ -27,6 +27,16 @@ header {
     justify-content: center;
 }
 
+#Deng-Xiaoping{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Xiaoping{
+    height: 500px;
+}
+
 img {
  display: block;
  margin-left: auto;
